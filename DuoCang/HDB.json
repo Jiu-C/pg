@@ -1,0 +1,12 @@
+{
+    "storeHouse": [
+        {
+            "sourceUrl": "https://atomgit.com/qing_li/pg/raw/master/DuoCang/Ql.json",
+            "sourceName": "青璃🍙｜在线"
+        },
+        {
+            "sourceUrl": "https://atomgit.com/qing_li/pg/raw/master/DuoCang/BDTY.json",
+            "sourceName": "青璃🍙｜本地"
+        }
+    ]
+}
