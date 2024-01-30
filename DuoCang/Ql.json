@@ -1,0 +1,236 @@
+//所有资源均来自于网络各路大神无私分享.如有侵权.请联系删除。〈所有内容仅供测试学习使用，请勿用于违法用途〉
+//以下资源不能保证内容的合法性、准确性、完整性和有效性，请根据情况自行判断。
+//仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途。
+//使用任何第三方硬件、软件、所造成的一切后果由使用的个人或组织承担，与本文内容无关。
+//所有直接或间接使用本内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本文内容。
+//所有基于本内容的源代码，进行的任何修改，为其他个人或组织的自发行为，与本内容没有任何直接或间接的关系，所造成的一切后果亦与本内容和本管理者无关。
+//本管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、转载、发布、修改了本文内容，则视为您已接受此免责声明。否则后果自负。
+//本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
+{
+    "urls": [
+        {
+            "url": "https://atomgit.com/qing_li/pg/raw/master/jsm.json",
+            "name": "青璃🍙｜PG"
+        },
+        {
+            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
+            "name": "青璃🍙｜影视OK"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "青璃🍙｜摸鱼4K"
+        },
+        {
+            "url": "https://api-lmteam.koyeb.app/PythonT4",
+            "name": "青璃🍙｜月月py"
+        },
+        {
+            "url": "https://raw.gitmirror.com/qlql765/FongMI-CatVodSpider/main1/json/config.json",
+            "name": "青璃🍙｜FongMi"
+        },
+        {
+            "url": "https://raw.gitmirror.com//gaotianliuyun/gao/master/js.json",
+            "name": "青璃🍙｜高天流云js"
+        },
+        {
+            "url": "https://www.yingm.cc/dm/dm.json",
+            "name": "青璃🍙｜动漫"
+        },
+        {
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json",
+            "name": "青璃🍙｜短剧"
+        },
+        {
+            "url": "http://fmys.top/fmys.json",
+            "name": "青璃🍙｜备用"
+        },
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "青璃🍙｜饭太硬"
+        },
+        {
+            "url": "http://肥猫.live",
+            "name": "青璃🍙｜肥猫"
+        },
+        {
+            "url": "http://qrh.yimkj.cn/ym/壹梦.json",
+            "name": "青璃🍙｜一梦"
+        },
+        {
+            "url": "https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json",
+            "name": "青璃🍙｜干货"
+        },
+        {
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json",
+            "name": "青璃🍙｜时光"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "青璃🍙｜胖达"
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "青璃🍙｜小米"
+        },
+        {
+            "url": "https://xhdwc.tk/0",
+            "name": "青璃🍙｜RAY"
+        },
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "青璃🍙｜香雅情"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "青璃🍙｜菜妮丝"
+        },
+        {
+            "url": "https://la.kstore.space/download/2863/01.txt",
+            "name": "青璃🍙｜萧洒"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "青璃🍙｜俊佬"
+        },
+        {
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+            "name": "青璃🍙｜少儿"
+        },
+        {
+            "url": "https://tvkj.top/DC/ysc/tvkj/svip.json",
+            "name": "青璃🍙｜运输车"
+        },
+        {
+            "url": "http://我不是.肥猫.love:63/",
+            "name": "青璃🍙｜肥猫"
+        },
+        {
+            "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+            "name": "青璃🍙｜业余打发"
+        },
+        {
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+            "name": "青璃🍙｜夜猫子"
+        },
+        {
+            "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
+            "name": "青璃🍙｜圆周率"
+        },
+        {
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
+            "name": "青璃🍙｜不良帅"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "青璃🍙｜南风"
+        },
+        {
+            "url": "http://rihou.cc:88/荷城茶秀",
+            "name": "青璃🍙｜荷城茶秀"
+        },
+        {
+            "url": "https://raw.gitmirror.com/guot55/YGBH/main/ygbox.json",
+            "name": "青璃🍙｜月光宝盒"
+        },
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "青璃🍙｜道长"
+        },
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "青璃🍙｜分享者"
+        },
+        {
+            "url": "https://agit.ai/ystvy/YUU/raw/branch/master/JavaScript.json",
+            "name": "青璃🍙｜ystvy"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "青璃🍙｜小马"
+        },
+        {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "青璃🍙｜影探"
+        },
+        {
+            "url": "http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
+            "name": "青璃🍙｜阿里4k"
+        },
+        {
+            "url": "http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
+            "name": "青璃🍙｜学习娱乐"
+        },
+        {
+            "url": "http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
+            "name": "青璃🍙｜欧歌"
+        },
+        {
+            "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json",
+            "name": "青璃🍙｜心魔"
+        },
+        {
+            "url": "https://atomgit.com/xmbjm/vip/raw/main/vip4k.json",
+            "name": "青璃🍙｜拾光"
+        },
+        {
+            "url": "https://wds.ecsxs.com/230989.json",
+            "name": "青璃🍙｜春盈"
+        },
+        {
+            "url": "https://pan.shangui.cc/f/gyVYFV/乌鸦不太黑.json",
+            "name": "青璃🍙｜乌鸦"
+        },
+        {
+            "url": "https://download.kstore.space/download/5242/冉神.json",
+            "name": "青璃🍙｜冉神"
+        },
+        {
+            "url": "https://atomgit.com/hengxing/hx/raw/master/hxzx.txt",
+            "name": "青璃🍙｜恒星"
+        },
+        {
+            "url": "http://hm16458.k785.icu/tvys/svip.json",
+            "name": "青璃🍙｜天微VIP"
+        },
+        {
+            "url": "http://39.101.135.137:8080",
+            "name": "青璃🍙｜白龙"
+        },
+        {
+            "url": "http://sx.liuyun.wang:88/img",
+            "name": "青璃🍙｜神仙"
+        },
+        {
+            "url": "http://rihou.vip:55/天天开心",
+            "name": "青璃🍙｜开心"
+        },
+        {
+            "url": "https://cn.kstore.space/download/2863/01.txt",
+            "name": "青璃🍙｜潇洒"
+        },
+        {
+            "url": "http://xiaohu.xzam.cn/xiaohu",
+            "name": "青璃🍙｜小胡"
+        },
+        {
+            "url": "https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json",
+            "name": "青璃🍙｜月月"
+        },
+        {
+            "url": "https://agit.ai/kvymin/TVBox/raw/branch/master/config.json",
+            "name": "青璃🍙｜kvymin"
+        },
+        {
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "name": "青璃🍙｜abc"
+        },
+        {
+            "url": "https://tv.lan2wan.top/candymuj1.json",
+            "name": "青璃🍙｜CandyMuj"
+        },
+        {
+            "url": "http://meowtv.cn/tv",
+            "name": "青璃🍙｜喵影"
+        }
+    ]
+}
