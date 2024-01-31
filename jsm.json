@@ -42,7 +42,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": "./token.txt",
-            "jar": "./custom_spider.jar"
+            "jar": "./jar/ustom_spider.jar"
         },
         {
             "key": "PikPakShare",
