@@ -5,8 +5,16 @@
             "sourceName": "青璃🍙｜在线"
         },
         {
+            "suorceUrl": "https://raw.gitmirror.com/Jiu-C/pg/master/DuoCang/Ql.json",
+            "suorceName": "青璃🍙｜备用"
+        },
+        {
             "sourceUrl": "https://atomgit.com/qing_li/pg/raw/master/DuoCang/BDTY.json",
             "sourceName": "青璃🍙｜本地"
         }
+        {
+            "suorceUrl": "https://raw.gitmirror.com/Jiu-C/pg/master/DuoCang/BDTY.json",
+            "suorceName": "青璃🍙｜备用"
+        },
     ]
 }
